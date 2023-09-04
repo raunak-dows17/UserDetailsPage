@@ -1,9 +1,9 @@
-import Image from 'next/image'
+import Userpage from '../components/Userpage'
 
 export default function Home() {
   return (
     <main>
-      
+      <Userpage />
     </main>
   )
 }
